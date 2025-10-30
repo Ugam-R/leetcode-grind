@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 13   
+- **Problems Solved:** 14   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -19,6 +19,8 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Binary Search** | ✅ [Peak Index in Mountain Array](BinarySearch/852_Peak_Index_in_Mountain_Array.cpp) <br> ✅ [Single Element in a Sorted Array](BinarySearch/540_Single_Element_in_a_Sorted_Array.cpp) |
 | **Sorting** | ✅ [Merge Sorted Array](Sorting/88_Merge_Sorted_Array.cpp) |
 | **Strings** | ✅ [Reverse String](Strings/344_Reverse_String.cpp) <br> ✅ [Remove All Occurrences of a Substring](Strings/1910_Remove_All_Occurrences_of_a_Substring.cpp) <br> ✅ [String Compression](Strings/443_String_Compression.cpp) |
+| **Recursion** | ✅ [Fibonacci Number](Recursion/509_Fibonacci_Number.cpp) |
+
 
 
 
