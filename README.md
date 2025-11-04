@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 15   
+- **Problems Solved:** 16   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -20,6 +20,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Sorting** | ✅ [Merge Sorted Array](Sorting/88_Merge_Sorted_Array.cpp) |
 | **Strings** | ✅ [Reverse String](Strings/344_Reverse_String.cpp) <br> ✅ [Remove All Occurrences of a Substring](Strings/1910_Remove_All_Occurrences_of_a_Substring.cpp) <br> ✅ [String Compression](Strings/443_String_Compression.cpp) |
 | **Recursion** | ✅ [Fibonacci Number](Recursion/509_Fibonacci_Number.cpp) |
+| **Backtracking** | ✅ [Subsets](Backtracking/78_Subsets.cpp) |
 
 
 
