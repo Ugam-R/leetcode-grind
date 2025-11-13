@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 23   
+- **Problems Solved:** 24   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -21,6 +21,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Strings** | ✅ [Reverse String](Strings/344_Reverse_String.cpp) <br> ✅ [Remove All Occurrences of a Substring](Strings/1910_Remove_All_Occurrences_of_a_Substring.cpp) <br> ✅ [String Compression](Strings/443_String_Compression.cpp) |
 | **Recursion** | ✅ [Fibonacci Number](Recursion/509_Fibonacci_Number.cpp) |
 | **Backtracking** | ✅ [Subsets](Backtracking/78_Subsets.cpp) <br> ✅ [Subsets II](Backtracking/90_Subsets_II.cpp) <br> ✅ [Permutations](Backtracking/46_Permutations.cpp) <br> ✅ [N-Queens](Backtracking/51_N-Queens.cpp) <br> ✅ [Sudoku Solver](Backtracking/37_SudokuSolver.cpp) <br> ✅ [Combination Sum](Backtracking/39_Combination_Sum.cpp) <br> ✅ [Palindrome Partitioning](Backtracking/131_Palindrome_Partitioning.cpp) <br> ✅ [Check Knight Tour Configuration](Backtracking/2596_Check_Knight_Tour_Configuration.cpp) |
+| **Linked List** | ✅ [Reverse Linked List](LinkedList/206_Reverse_Linked_List.cpp) |
 
 
 
