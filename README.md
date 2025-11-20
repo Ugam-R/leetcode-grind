@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 29   
+- **Problems Solved:** 30   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -21,7 +21,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Strings** | ✅ [Reverse String](Strings/344_Reverse_String.cpp) <br> ✅ [Remove All Occurrences of a Substring](Strings/1910_Remove_All_Occurrences_of_a_Substring.cpp) <br> ✅ [String Compression](Strings/443_String_Compression.cpp) |
 | **Recursion** | ✅ [Fibonacci Number](Recursion/509_Fibonacci_Number.cpp) |
 | **Backtracking** | ✅ [Subsets](Backtracking/78_Subsets.cpp) <br> ✅ [Subsets II](Backtracking/90_Subsets_II.cpp) <br> ✅ [Permutations](Backtracking/46_Permutations.cpp) <br> ✅ [N-Queens](Backtracking/51_N-Queens.cpp) <br> ✅ [Sudoku Solver](Backtracking/37_SudokuSolver.cpp) <br> ✅ [Combination Sum](Backtracking/39_Combination_Sum.cpp) <br> ✅ [Palindrome Partitioning](Backtracking/131_Palindrome_Partitioning.cpp) <br> ✅ [Check Knight Tour Configuration](Backtracking/2596_Check_Knight_Tour_Configuration.cpp) |
-| **Linked List** | ✅ [Reverse Linked List](LinkedList/206_Reverse_Linked_List.cpp) <br> ✅ [Middle of the Linked List](LinkedList/876_Middle_of_the_Linked_List.cpp) <br> ✅ [Merge Two Sorted Lists](LinkedList/21_Merge_Two_Sorted_Lists.cpp) <br> ✅ [Linked List Cycle](LinkedList/141_Linked_List_Cycle.cpp) <br> ✅ [Linked List Cycle II](LinkedList/142_Linked_List_Cycle_II.cpp) <br> ✅ [Copy List with Random Pointer](LinkedList/138_Copy_List_with_Random_Pointer.cpp) |
+| **Linked List** | ✅ [Reverse Linked List](LinkedList/206_Reverse_Linked_List.cpp) <br> ✅ [Middle of the Linked List](LinkedList/876_Middle_of_the_Linked_List.cpp) <br> ✅ [Merge Two Sorted Lists](LinkedList/21_Merge_Two_Sorted_Lists.cpp) <br> ✅ [Linked List Cycle](LinkedList/141_Linked_List_Cycle.cpp) <br> ✅ [Linked List Cycle II](LinkedList/142_Linked_List_Cycle_II.cpp) <br> ✅ [Copy List with Random Pointer](LinkedList/138_Copy_List_with_Random_Pointer.cpp) <br> ✅ [Flatten a Multilevel Doubly Linked List](LinkedList/430_Flatten_Multilevel_Doubly_Linked_List.cpp) |
 
 
 
