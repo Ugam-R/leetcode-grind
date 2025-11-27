@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 35   
+- **Problems Solved:** 36   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
