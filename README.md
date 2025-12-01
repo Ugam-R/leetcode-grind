@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 39   
+- **Problems Solved:** 40   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -24,6 +24,8 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Linked List** | ✅ [Reverse Linked List](LinkedList/206_Reverse_Linked_List.cpp) <br> ✅ [Middle of the Linked List](LinkedList/876_Middle_of_the_Linked_List.cpp) <br> ✅ [Merge Two Sorted Lists](LinkedList/21_Merge_Two_Sorted_Lists.cpp) <br> ✅ [Linked List Cycle](LinkedList/141_Linked_List_Cycle.cpp) <br> ✅ [Linked List Cycle II](LinkedList/142_Linked_List_Cycle_II.cpp) <br> ✅ [Copy List with Random Pointer](LinkedList/138_Copy_List_with_Random_Pointer.cpp) <br> ✅ [Flatten a Multilevel Doubly Linked List](LinkedList/430_Flatten_Multilevel_Doubly_Linked_List.cpp) <br> ✅ [Reverse Nodes in k-Group](LinkedList/25_Reverse_Nodes_in_K-Group.cpp) <br> ✅ [Swap Nodes in Pairs](LinkedList/24_Swap_Nodes_in_Pairs.cpp) |
 | **Stack** | ✅ [Valid Parentheses](Stack/20_Valid_Parentheses.cpp) <br> ✅ [Next Greater Element I](Stack/496_Next_Greater_Element_I.cpp) <br> ✅ [Min Stack](Stack/155_Min_Stack.cpp) <br> ✅ [Largest Rectangle in Histogram](Stack/84_Largest_Rectangle_in_Histogram.cpp) <br> ✅ [Next Greater Element II](Stack/503_Next_Greater_Element_II.cpp) |
 | **Two Pointers** | ✅ [Container With Most Water](TwoPointers/11_Container_With_Most_Water.cpp) <br> ✅ [Trapping Rain Water](TwoPointers/42_Trapping_Rain_Water.cpp) |
+| **Design** | ✅ [LRU Cache](Design/146_LRU_Cache.cpp) |
+
 
 
 
