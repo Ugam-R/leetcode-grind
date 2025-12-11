@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 44   
+- **Problems Solved:** 45   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -26,6 +26,8 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Two Pointers** | ✅ [Container With Most Water](TwoPointers/11_Container_With_Most_Water.cpp) <br> ✅ [Trapping Rain Water](TwoPointers/42_Trapping_Rain_Water.cpp) |
 | **Design** | ✅ [LRU Cache](Design/146_LRU_Cache.cpp) |
 | **Queue** | ✅ [Implement Stack Using Queues](Queue/225_Implement_Stack_Using_Queues.cpp) <br> ✅ [Implement Queue Using Stacks](Queue/232_Implement_Queue_Using_Stacks.cpp) |
+| **Greedy** | ✅ [Gas Station](Greedy/134_Gas_Station.cpp) |
+
 
 
 
