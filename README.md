@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 47   
+- **Problems Solved:** 48   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -27,7 +27,8 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Design** | ✅ [LRU Cache](Design/146_LRU_Cache.cpp) |
 | **Queue** | ✅ [Implement Stack Using Queues](Queue/225_Implement_Stack_Using_Queues.cpp) <br> ✅ [Implement Queue Using Stacks](Queue/232_Implement_Queue_Using_Stacks.cpp) |
 | **Greedy** | ✅ [Gas Station](Greedy/134_Gas_Station.cpp) |
-| **Trees** | ✅ [Same Tree](Trees/100_Same_Tree.cpp) <br> ✅ [Subtree of Another Tree](Trees/572_Subtree_of_Another_Tree.cpp) |
+| **Trees** | ✅ [Same Tree](Trees/100_Same_Tree.cpp) <br> ✅ [Subtree of Another Tree](Trees/572_Subtree_of_Another_Tree.cpp) <br> ✅ [Diameter of Binary Tree](Trees/543_Diameter_of_Binary_Tree.cpp) |
+
 
 
 
