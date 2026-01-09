@@ -5,7 +5,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 ---
 
 ## 📅 So Far
-- **Problems Solved:** 54   
+- **Problems Solved:** 55   
 - **Language:** C++   
 - **The goal:** Post daily updates -- at least :)  
 
@@ -27,7 +27,7 @@ Here I will be documenting my journey of practicing daily problems to improve at
 | **Design** | ✅ [LRU Cache](Design/146_LRU_Cache.cpp) |
 | **Queue** | ✅ [Implement Stack Using Queues](Queue/225_Implement_Stack_Using_Queues.cpp) <br> ✅ [Implement Queue Using Stacks](Queue/232_Implement_Queue_Using_Stacks.cpp) |
 | **Greedy** | ✅ [Gas Station](Greedy/134_Gas_Station.cpp) |
-| **Trees** | ✅ [Same Tree](Trees/100_Same_Tree.cpp) <br> ✅ [Subtree of Another Tree](Trees/572_Subtree_of_Another_Tree.cpp) <br> ✅ [Diameter of Binary Tree](Trees/543_Diameter_of_Binary_Tree.cpp) <br> ✅ [Lowest Common Ancestor of a Binary Tree](Trees/236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) <br> ✅ [Construct Binary Tree from Preorder and Inorder Traversal](Trees/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) <br> ✅ [Binary Tree Inorder Traversal](Trees/94_Binary_Tree_Inorder_Traversal.cpp) <br> ✅ [Flatten Binary Tree to Linked List](Trees/114_Flatten_Binary_Tree_to_Linked_List.cpp) <br> ✅ [Convert Sorted Array to Binary Search Tree](Trees/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp) <br> ✅ [Validate Binary Search Tree](Trees/98_Validate_Binary_Search_Tree.cpp) |
+| **Trees** | ✅ [Same Tree](Trees/100_Same_Tree.cpp) <br> ✅ [Subtree of Another Tree](Trees/572_Subtree_of_Another_Tree.cpp) <br> ✅ [Diameter of Binary Tree](Trees/543_Diameter_of_Binary_Tree.cpp) <br> ✅ [Lowest Common Ancestor of a Binary Tree](Trees/236_Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) <br> ✅ [Construct Binary Tree from Preorder and Inorder Traversal](Trees/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) <br> ✅ [Binary Tree Inorder Traversal](Trees/94_Binary_Tree_Inorder_Traversal.cpp) <br> ✅ [Flatten Binary Tree to Linked List](Trees/114_Flatten_Binary_Tree_to_Linked_List.cpp) <br> ✅ [Convert Sorted Array to Binary Search Tree](Trees/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp) <br> ✅ [Validate Binary Search Tree](Trees/98_Validate_Binary_Search_Tree.cpp) <br> ✅ [Minimum Distance Between BST Nodes](Trees/783_Minimum_Distance_Between_BST_Nodes.cpp) |
 
 
 
